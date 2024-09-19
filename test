@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": "4",
+            "title": "test 3",
+            "content": "test 3",
+            "thumbnail": "https:\/\/www.google.com\/images\/branding\/googlelogo\/1x\/googlelogo_light_color_272x92dp.png",
+            "date_posted": "2024-09-18 20:12:07"
+        },
+        {
+            "id": "2",
+            "title": "test 2",
+            "content": "test 2",
+            "thumbnail": "https:\/\/www.google.com\/images\/branding\/googlelogo\/1x\/googlelogo_light_color_272x92dp.png",
+            "date_posted": "2024-09-18 19:57:41"
+        },
+        {
+            "id": "1",
+            "title": "test",
+            "content": "test",
+            "thumbnail": "https:\/\/www.google.com\/images\/branding\/googlelogo\/1x\/googlelogo_light_color_272x92dp.png",
+            "date_posted": "2024-09-18 12:43:11"
+        }
+    ]
+}
